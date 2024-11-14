@@ -71,3 +71,5 @@ You can then edit the file to add your content.
 ## 2.3. Building the Site
 
 To build the site, you can use the `jubrizh build` command. This command will generate the site in
+
+https://colab.research.google.com/drive/1PI1upcnG16cvXTiFSQeXc2SIk_udAmGy#scrollTo=oaomN3zj-4uz
